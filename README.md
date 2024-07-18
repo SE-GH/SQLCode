@@ -1,3 +1,3 @@
 # SQLCode
 
-SQL Code of all portfolio projects
+SQL Code for all portfolio projects
