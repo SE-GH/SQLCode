@@ -13,5 +13,5 @@ StoreData:
 https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset
 
 
-Pizza Sale: 
+PizzaSale: 
 https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset. 
