@@ -17,4 +17,4 @@ PizzaSale:
 https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset. 
 
 Bookstore: 
-This dataset is not taken from Kaggle and contains a database schema, creation of tables and questions created to query the database. 
+This dataset is not taken from Kaggle but was created for the purpose of querying a fictional database called 'bookstore'. It contains a database schema, creation of tables and questions created to query the database. 
